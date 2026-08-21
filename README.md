@@ -123,10 +123,10 @@ Important visualizations are stored in the `graphs` folder:
 - Actual vs predicted popularity
 - Machine Learning model comparison
 
-- 👨‍💻 Created By
+## 👨‍💻 Created By
 JATIN KUMAR
 
 Spotify Music Analysis Project
 
-This project was created as a Data Science project using Python,
+ - This project was created as a Data Science project using Python,
 Data Analysis, Data Visualization, and Machine Learning.
