@@ -122,3 +122,11 @@ Important visualizations are stored in the `graphs` folder:
 - Feature importance
 - Actual vs predicted popularity
 - Machine Learning model comparison
+
+- 👨‍💻 Created By
+JATIN KUMAR
+
+Spotify Music Analysis Project
+
+This project was created as a Data Science project using Python,
+Data Analysis, Data Visualization, and Machine Learning.
